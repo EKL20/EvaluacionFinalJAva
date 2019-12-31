@@ -10,7 +10,7 @@ public class AvionBomb extends Vehiculo implements Flyable{
     private String nomBombasRacimo;
     private int  pesoBombasRacimo;
 
- 
+
 
     //Implementación de interface ataqueAereo
     public void ataqueAereo(){
